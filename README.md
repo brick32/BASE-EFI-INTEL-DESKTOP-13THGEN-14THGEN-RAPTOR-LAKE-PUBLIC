@@ -1,3 +1,8 @@
+# Stolen proudly from the Universo Hackintosh server
+
+
+
+------------------------------
 # BASE EFI Intel Raptor Lake
 
 # 🛠️ Remote Services | Serviços remotos
